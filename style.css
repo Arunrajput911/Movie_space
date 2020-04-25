@@ -1,0 +1,69 @@
+h1{
+    text-align:center;
+    
+    margin-top: 50px;
+    margin-left:400px;
+    margin-right:400px;
+    font-family: 'Lobster', cursive;
+    }
+.h11{
+    text-align:center;
+    background-color:#4cbbb9;
+    margin-top: 50px;
+    margin-left:0px;
+    margin-right:0px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+body{
+    background-color:#aeefec;
+}
+.block{
+    height: 400px;
+    width:180px;
+    border:1.5px solid #000000;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    text-align:center;
+    background-color: #dbdbdb;
+}
+
+.image{
+position:relative;
+left:5px;
+top:5px;
+margin-bottom: 10px;
+border-radius: 5px;
+}
+
+.link{
+    color:#000;
+    font-weight: bold;
+}
+
+.bollywood{
+    margin:50px 180px;
+}
+.Hollywood{
+    margin:50px 180px;
+}
+.Animationmovie{
+    margin:50px 180px;
+}
+.form-inline{
+    padding-left:200px;
+}
+.navbar-brand{
+    color:#00bcd4;
+    font-size:3rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.bottom-container{
+    background-color: #27496d;
+    height: 80px;
+    
+}
+.footer{
+    margin-left: 500px;
+    color: #ffffff;
+    padding-top: 30px;
+}
