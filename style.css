@@ -6,9 +6,14 @@ h1{
     margin-right:400px;
     font-family: 'Lobster', cursive;
     }
+.casimage{
+width:100%;
+height:550px ;
+}
 .h11{
     text-align:center;
-    background-color:#4cbbb9;
+    color:#ffffff;
+    background-color: #000000;
     margin-top: 50px;
     margin-left:0px;
     margin-right:0px;
